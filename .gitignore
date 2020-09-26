@@ -1,0 +1,8 @@
+*.pyc
+*.csv
+venv
+*/.vscode/*
+*/.vs/*
+.vscode/*
+.vs/*
+.idea/*
